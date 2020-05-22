@@ -1,0 +1,1 @@
+CREATE INDEX ix_list_items_list_id ON list_items(list_id);
